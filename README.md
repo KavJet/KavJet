@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-⭐ Currently a student. <br> 🌱 I’m currently learning C, Haskell, Python, and Java.<br>👯 I’m looking to collaborate on projects that improve healthcare, education, and financial sectors.<br>🤝 I’m interested in front-end development and AI integration.<br>😄 Pronouns: She/Her
+⭐ Computer Science student. <br> 🌱 Currently learning C, Haskell, Python, and Java.<br>👯 I’m looking to collaborate on projects that improve healthcare, education, and financial sectors.<br>🤝 I’m interested in front-end development and AI integration.<br>😄 Pronouns: She/Her
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KavJet&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
