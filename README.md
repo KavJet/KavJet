@@ -3,7 +3,6 @@
 ⭐ Computer Science student. <br> 🌱 Currently learning C, Haskell, Python, and Java.<br>👯 I’m looking to collaborate on projects that improve healthcare, education, and financial sectors.<br>🤝 I’m interested in front-end development and AI integration.<br>😄 Pronouns: She/Her
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=KavJet&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KavJet&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
